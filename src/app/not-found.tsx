@@ -10,7 +10,7 @@ export default function NotFound() {
         </div>
         <p style={{ color: "#63834a", fontSize: 12, fontWeight: 700, letterSpacing: ".14em", textTransform: "uppercase" }}>A small detour</p>
         <h1 style={{ margin: "12px 0", fontSize: 42, letterSpacing: "-.06em" }}>This page is still a mystery.</h1>
-        <p style={{ color: "#6d736e", lineHeight: 1.8 }}>That conversation hasn't started yet. Head back to Talkwise and keep following your curiosity.</p>
+        <p style={{ color: "#6d736e", lineHeight: 1.8 }}>That conversation hasn&apos;t started yet. Head back to Talkwise and keep following your curiosity.</p>
         <Link href="/" className="button" style={{ marginTop: 20 }}><ArrowLeft size={16} /> Back to Talkwise</Link>
       </div>
     </main>
