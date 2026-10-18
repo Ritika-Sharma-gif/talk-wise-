@@ -2,10 +2,8 @@ import Link from "next/link";
 import {
   ArrowDownRight,
   ArrowRight,
-  AudioLines,
   BookOpen,
   BrainCircuit,
-  Check,
   Code2,
   Compass,
   HeartHandshake,
@@ -19,7 +17,6 @@ import {
   Sparkles,
   Video,
   Wifi,
-  Globe2,
 } from "lucide-react";
 
 const topics = [
